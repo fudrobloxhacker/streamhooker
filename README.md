@@ -1,3 +1,3 @@
 # streamhooker
 hooks internetopenurl and prints base and addy
-[![watch](https://streamable.com/gl6sut)]
+<iframe src="https://streamable.com/gl6sut" allowfullscreen></iframe>
